@@ -128,7 +128,9 @@ ENV/
 env.bak/
 venv.bak/
 Previous_Specific_Runs/
-Quick_Flood_Warning/
+Quick_Flood_Warning/tmp/
+Quick_Flood_Warning/results/
+Quick_Flood_Warning/extras/TPXO8/DATA
 
 
 
